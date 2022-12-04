@@ -25,8 +25,8 @@ const iconColor = document.querySelectorAll(".checkout-step-icon");
                         <img  src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/255039166_604229364348215_210144821470031028_n.png?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=NcVuv4llrdIAX8QbmBI&tn=5q8TAZohD0lQzUbg&_nc_ht=scontent.fsgn2-4.fna&oh=879195a1794644678291d0d92a9d067b&oe=61AFCD3D" alt="">
                     </div>
                     <p>Cám ơn khách hàng đã cho chúng tôi cơ hội được phục vụ</p>
-                    <p style="margin-bottom: 1rem;">Nhân viên THLShop sẽ liên hệ cho Quý Khách để xác nhận đơn hàng</p>
-                    <p style="font-size: 1.4rem;" >Mọi thắc mắc vui lòng liên hệ 18006666 hoặc 18009999</p>
+                    <p style="margin-bottom: 1rem;">Nhân viên THShop sẽ liên hệ cho Quý Khách để xác nhận đơn hàng</p>
+                    <p style="font-size: 1.4rem;" >Mọi thắc mắc vui lòng liên hệ 1800 8888 hoặc 1900 9999</p>
                 </div>
                 <a href="<c:url value='/trang-chu'/>" class="thank__btn">
                     <p>TIẾP TỤC MUA HÀNG</p>

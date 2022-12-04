@@ -42,7 +42,7 @@
 			<%@ include file="/common/admin/menu.jsp" %>
 			
 
-				<dec:body/>
+				<dec:body />
 			
 			
 			

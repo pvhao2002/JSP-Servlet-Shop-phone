@@ -3,7 +3,7 @@
 <%@ include file="/common/taglib.jsp"%>
 <div class="header">
 
-    <div class="top-bar">
+<!--    <div class="top-bar">
         <div class="top-bar__container">
             <div class="top-bar__container-wrap">
                 <a href='<c:url value="/all-product-by-category?categoryId=1"></c:url>' class="top-bar__container-wrap-link">
@@ -20,20 +20,20 @@
             <div class="top-bar__container-wrap">
                 <a class="top-bar-phone">
                     <i class="fas fa-headset"></i>
-                    <span>Tư vấn mua hàng : 1900555666</span>
+                    <span>Hotline 1 : 1900 9999</span>
                 </a>
                 <a class="top-bar-phone">
                     <i class="fas fa-headset"></i>
-                    <span>CSKH : 1800 9999</span>
+                    <span>Hotline 2 : 1800 8888</span>
                 </a>
             </div>
 
-        </div>
+        </div>-->
     </div>
         <div class="masthead">
         <div class="masthead__container">
             <div class="masthead__logo">  
-                <a href="<c:url value='/trang-chu'/>" class="masthead__logo-text">THLShop</a>
+                <a href="<c:url value='/trang-chu'/>" class="masthead__logo-text">TH Shop</a>
                 <i class="fas fa-bars masthead__menu-toggle"></i>
             </div>
             <div class="checkout-step">

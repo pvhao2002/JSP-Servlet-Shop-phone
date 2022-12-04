@@ -4,8 +4,8 @@
 			<div class="footer-inner">
 				<div class="footer-content">
 					<span class="bigger-120">
-						<span class="blue bolder">Ace</span>
-						THLShop &copy; 2021-2022
+						<span class="blue bolder">UTE</span>
+						TH Shop &copy; 2021-2022
 					</span>
 
 					&nbsp; &nbsp;

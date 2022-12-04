@@ -81,7 +81,7 @@
             data: JSON.stringify(data),
             dataType: 'json',
             success: function (result) {
-            	if(result == "emailExisted"){
+            	if(result === "emailExisted"){
             		window.location.href = "${dangnhap}?action=signup&message=email_existed&alert=danger";
             		
             	}else{

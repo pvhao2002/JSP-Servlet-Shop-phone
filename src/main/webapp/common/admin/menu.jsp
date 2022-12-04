@@ -3,12 +3,12 @@
 <%@include file="/common/taglib.jsp"%>
 <!-- <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> -->
 <script type="text/javascript">
-	try { ace.settings.check('main-container', 'fixed') } catch (e) { }
+	try { ace.settings.check('main-container', 'fixed'); } catch (e) { }
 </script>
 <div id="sidebar" class="sidebar responsive">
 	<script type="text/javascript">
 		try {
-			ace.settings.check('sidebar', 'fixed')
+			ace.settings.check('sidebar', 'fixed');
 		} catch (e) {
 		}
 	</script>
@@ -50,7 +50,7 @@
 
 	<script type="text/javascript">
 		try {
-			ace.settings.check('sidebar', 'collapsed')
+			ace.settings.check('sidebar', 'collapsed');
 		} catch (e) {
 		}
 	</script>
